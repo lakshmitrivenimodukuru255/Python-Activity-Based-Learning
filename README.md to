@@ -1,24 +1,23 @@
 # Python Programming - Activity-Based Learning (ABL) Assignment
 
-Name: Lakshmi Triveni
+Name: Lakshmi Triveni Modukuru
 Roll No: 26000255
 Branch: CSE
 Section: 4
 Assignment Period: 17-21 Oct 2026
 Submission Date:22 Oct 2026
 
-### Selected 10 Difficult-Level Case Studies:
-
-1. Electricity Bill Calculation with Slab Rates
-2. ATM Transaction Simulation with PIN validation
-3. Student Grade Management with SGPA Calculation
-4. Bank Loan Eligibility Checker
-5. Inventory Management System for a Store
-6. Library Fine Calculation System
-7. Password Strength Checker with Login Attempt Limit
-8. Online Shopping Cart with Discount and GST
-9. Hospital Patient Billing System
-10. Railway Ticket Reservation - Waitlist Management
+##Selected 10 Difficult-Level Case Studies:
+1. University Scholarship Allocation
+2. Examination Result and Grace-Mark Validation
+3. Smart Public Transport Fare Reconciliation
+4. Password Policy Validation Engine
+5. Hackathon Team Formation and Ranking
+6. Smart Hostel Resource Monitoring
+7. ATM Transaction Sequence Simulation
+8. Smart Public Transport Fare Reconciliation
+9. Food Supply Chain Stock Reconciliation
+10. University Hostel Room Allocation
 
 ### Repository Contents:
 - Python source code (10 programs)
