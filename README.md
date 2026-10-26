@@ -15,7 +15,6 @@ Section: 4
 
 ### Selected 10 Difficult-Level Case Studies:
 &nbsp;
-
 1. University Scholarship Allocation
 2. Examination Result and Grace-Mark Validation
 3. Smart Public Transport Fare Reconciliation
@@ -27,9 +26,9 @@ Section: 4
 9. Food Supply Chain Stock Reconciliation
 10. University Hostel Room Allocation
 
+
 ### Repository Contents:
 &nbsp;
-
 - Python source code (10 programs)&nbsp;
 - Problem Statement, Objectives, Assumptions, Algorithm, Flowchart, Pseudocode, Test Cases, Conclusion (inside each file as comments)&nbsp;
 - Output Screenshots&nbsp;
