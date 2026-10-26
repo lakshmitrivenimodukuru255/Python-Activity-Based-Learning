@@ -2,6 +2,7 @@
 
 Name: Lakshmi Triveni Modukuru
 &nbsp;&nbsp;
+
 Roll No: 26000255
 &nbsp;&nbsp;
 
@@ -13,20 +14,22 @@ Section: 4
 
 
 ### Selected 10 Difficult-Level Case Studies:
-&nbsp;&nbsp;
-1. University Scholarship Allocation&nbsp;&nbsp;
-2. Examination Result and Grace-Mark Validation&nbsp;&nbsp;
-3. Smart Public Transport Fare Reconciliation&nbsp;&nbsp;
-4. Password Policy Validation Engine&nbsp;&nbsp;
-5. Hackathon Team Formation and Ranking&nbsp;&nbsp;
-6. Smart Hostel Resource Monitoring&nbsp;&nbsp;
-7. ATM Transaction Sequence Simulation&nbsp;&nbsp;
-8. Smart Public Transport Fare Reconciliation&nbsp;&nbsp;
-9. Food Supply Chain Stock Reconciliation&nbsp;&nbsp;
-10. University Hostel Room Allocation&nbsp;&nbsp;
+&nbsp;
+
+1. University Scholarship Allocation
+2. Examination Result and Grace-Mark Validation
+3. Smart Public Transport Fare Reconciliation
+4. Password Policy Validation Engine
+5. Hackathon Team Formation and Ranking
+6. Smart Hostel Resource Monitoring
+7. ATM Transaction Sequence Simulation
+8. Smart Public Transport Fare Reconciliation
+9. Food Supply Chain Stock Reconciliation
+10. University Hostel Room Allocation
 
 ### Repository Contents:
-&nbsp;&nbsp;
+&nbsp;
+
 - Python source code (10 programs)&nbsp;
 - Problem Statement, Objectives, Assumptions, Algorithm, Flowchart, Pseudocode, Test Cases, Conclusion (inside each file as comments)&nbsp;
 - Output Screenshots&nbsp;
