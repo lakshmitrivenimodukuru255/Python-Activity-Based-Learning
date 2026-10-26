@@ -20,7 +20,7 @@ Section: 4
 5. Hackathon Team Formation and Ranking
 6. Smart Hostel Resource Monitoring
 7. ATM Transaction Sequence Simulation
-8. Smart Public Transport Fare Reconciliation
+8. Smart Canteen Order and Stock Management
 9. Food Supply Chain Stock Reconciliation
 10. University Hostel Room Allocation
 &nbsp;
